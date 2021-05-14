@@ -4,12 +4,13 @@ Hello Github fam !!
 
 I've completed my #Task3 of Web Development and Designing for the Graduate Rotational Internship Program by The Sparks Foundation.
 
-Project : PAYMENT GATEWAY INTEGRATION ;
-Domain : Web Development ;
-Language : HTML , CSS ;
-Framework : Bootstrap ;
-Gateway : Razorpay ;
-
+<ul>
+<li>Project : PAYMENT GATEWAY INTEGRATION</li>
+<li>Domain : Web Development</li>
+<li>Language : HTML , CSS</li>
+<li>Framework : Bootstrap</li>
+<li>Gateway : Razorpay</li>
+<ul>
 Website Link : http://grootoff.me/
 Youtube Link : https://lnkd.in/g__NtHt
 Github Link : https://lnkd.in/gJyYFW9
